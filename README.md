@@ -1,2 +1,3 @@
-# nadar-docs
-Testing docsify for nadar documentation
+# NADAR - NADA API client for R
+
+NADAR 
